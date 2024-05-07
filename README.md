@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bschathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="bschathuranga" /> </p>
 
-- 🔭 I’m currently working on **Undergraduate of University of Sri Jayewardenepura**
+- 🔭 I’m currently following  **Degree in Business Information Systems**
 
 - 📫 How to reach me **171bsc@gmail.com**
 
@@ -12,7 +12,7 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BSChathuranga&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=BSChathuranga&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
